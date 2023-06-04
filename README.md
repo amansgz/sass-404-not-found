@@ -1,7 +1,37 @@
-# 404 Not Found Page
-[Live Site](https://sass-404-not-found.netlify.app/)
+<h1 align="center">404 Not Found Page</h1>
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/paths/responsive-web-developer) challenge. 
+<div align="center">
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+</div>
+
+<div align="center">
+  <h3>
+    <a href="https://sass-404-not-found.netlify.app/">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://{your-url-to-the-solution}">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+      Challenge
+    </a>
+  </h3>
+</div>
+
+![screenshot](./scss/assets/preview.png)
+
+## The challenge
+
+User story: I can see a page following the given design
 
 
-![preview](./scss/assets/preview.png)
+## Built With
+
+- [Sass](https://sass-lang.com/)
+
+## Author
+
+- GitHub [@amansgz](https://github.com/amansgz)
+- DevChallenges []()
