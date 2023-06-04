@@ -1,0 +1,25 @@
+@use '../abstracts' as *;
+
+.link {
+  width: 216px;
+  height: 68px;
+  font-family: $space-font;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 156px;
+  background-color: $gray-1;
+  color: $white;
+  text-transform: uppercase;
+  padding: 1.5rem 2.5rem;
+  text-decoration: none;
+
+  @include large {
+    line-height: 156px;
+    
+    &:hover,
+    &:focus {
+        background-color: $hover;
+        transition: background-color .2s ease;
+    }
+  }
+}

@@ -1,0 +1,11 @@
+@use '../abstracts' as *;
+
+.image {
+  width: 286px;
+  height: 236px;
+
+  @include medium {
+    width: 75%;
+    height: 447px;
+  }
+}

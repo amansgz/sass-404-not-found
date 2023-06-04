@@ -1,0 +1,14 @@
+@use '../abstracts' as *;
+
+.heading {
+    width: 133px;
+    height: 25px;
+    font-family: $inconsolata-font;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    color: $gray-1;
+    text-transform: uppercase;
+}

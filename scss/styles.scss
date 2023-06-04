@@ -1,7 +1,12 @@
-@use'vendors/normalize';
 @use'abstracts/fonts';
 @use'abstracts/colors';
 @use'abstracts/breakpoints';
+@use'vendors/normalize';
+
 @use'layout/body';
-@use'layout/article';
-@use'layout/header';
+@use'layout/main';
+
+@use'components/heading';
+@use'components/image';
+@use'components/box-info';
+@use'components/link';
