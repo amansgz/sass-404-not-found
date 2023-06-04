@@ -10,7 +10,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/VXKCSGXRv2akxubBkfrh">
       Solution
     </a>
     <span> | </span>
@@ -34,4 +34,4 @@ User story: I can see a page following the given design
 ## Author
 
 - GitHub [@amansgz](https://github.com/amansgz)
-- DevChallenges []()
+- DevChallenges [@amansgz](https://devchallenges.io/portfolio/amansgz)
